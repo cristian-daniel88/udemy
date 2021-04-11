@@ -1,0 +1,10 @@
+- X 1 = NaN 
+- X 2 = NaN 
+- X 3 = NaN 
+- X 4 = NaN 
+- X 5 = NaN 
+- X 6 = NaN 
+- X 7 = NaN 
+- X 8 = NaN 
+- X 9 = NaN 
+- X 10 = NaN 
